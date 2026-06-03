@@ -1,0 +1,10 @@
+{
+    "original_image_path": "/workspace/sam3/assets/cracks/57614_16352_4418_converted.jpg",
+    "orig_img_h": 400,
+    "orig_img_w": 600,
+    "pred_boxes": [],
+    "pred_scores": [],
+    "pred_masks": [],
+    "text_prompt": "find gas pipe",
+    "image_path": "/workspace/sam3/assets/cracks/57614_16352_4418.png"
+}

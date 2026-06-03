@@ -1,0 +1,20 @@
+{
+    "original_image_path": "/workspace/SAM3RAG/assets/cracks/Volker_DSC01708_0_0_1824_2736.jpg",
+    "output_image_path": "agent_output/sam_out/-workspace-SAM3RAG-assets-cracks-Volker_DSC01708_0_0_1824_2736.jpg/black spot.png",
+    "orig_img_h": 448,
+    "orig_img_w": 448,
+    "pred_boxes": [
+        [
+            0.36738505959510803,
+            0.8193728923797607,
+            0.04096841812133789,
+            0.03949916362762451
+        ]
+    ],
+    "pred_masks": [
+        "laX24k=1N2O1O1M3M3O1O2OO10000O2N1O2N2N3M]bc3"
+    ],
+    "pred_scores": [
+        0.50390625
+    ]
+}

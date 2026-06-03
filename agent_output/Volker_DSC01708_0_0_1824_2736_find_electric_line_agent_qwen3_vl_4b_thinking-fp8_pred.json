@@ -1,0 +1,10 @@
+{
+    "original_image_path": "/workspace/SAM3RAG/assets/cracks/Volker_DSC01708_0_0_1824_2736.jpg",
+    "orig_img_h": 448,
+    "orig_img_w": 448,
+    "pred_boxes": [],
+    "pred_scores": [],
+    "pred_masks": [],
+    "text_prompt": "find electric line",
+    "image_path": "/workspace/SAM3RAG/assets/cracks/Volker_DSC01708_0_0_1824_2736.jpg"
+}

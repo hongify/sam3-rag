@@ -1,0 +1,21 @@
+{
+    "original_image_path": "/workspace/sam3/assets/images/test_image.jpg",
+    "orig_img_h": 720,
+    "orig_img_w": 1280,
+    "pred_boxes": [
+        [
+            0.5552658438682556,
+            0.4927920997142792,
+            0.06194943189620972,
+            0.17460808157920837
+        ]
+    ],
+    "pred_scores": [
+        0.90234375
+    ],
+    "pred_masks": [
+        "eQe?7Xf03L4L6I;F:G3L2N2L5O010O01O010O010O01TN_Ng^Oa1Xa0aNh^O_1Va0dNh^O\\1Wa0gNg^OZ1Wa0iNh^OV1Wa0nNn]O@Nb1Sb0ROh]OA4^1Sb0Jm]O5Rb0Ln]O4Rb0Mm]O4Rb0Ln]O4Qb0MP^O2Pb0Oo]O1Qb0Oo]O1Qb00n]O1Qb0Oo]O1Rb0Nn]O2Rb0On]O0Tb0Nl]O2Vb0Mi]O3Zb0Jf]O6^b0Fb]O:_b0F`]O:cb0C]]O=eb0A[]O?gb0_OY]O`0jb0^OV]Ob0kb0]OV]O\\OEc0Wc0NU]O[ONa0ob01T]O\\O2?lb04R]O[O8=gb07X^OAja0>T2010O1O001O0O1L4F8101O1O1O1N2O1O100N3N2N1O2L3N4K4M4G]Uh:"
+    ],
+    "text_prompt": "the whole body of the leftmost child wearing blue vest",
+    "image_path": "/workspace/sam3/assets/images/test_image.jpg"
+}
